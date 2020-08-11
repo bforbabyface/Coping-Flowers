@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.826568, 0, 0, 1.826568, -183.176422, -178.513565)" style="">
+    <g transform="matrix(1, 0, 0, 1, 43.270393, 9.846598)">
+      <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 5px; stroke-linecap: round;" d="M 72.186 233.266 C 72.186 233.266 140.309 171.781 153.158 143.712 C 166.007 115.643 181.567 206.839 196.843 187.438"/>
+      <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 5px; stroke-linecap: round;" d="M 178.585 130.224 C 178.585 130.224 247.234 190.948 260.083 219.017 C 272.932 247.086 289.833 154.973 303.718 175.314" transform="matrix(-1, 0, 0, -1, 491.310989, 362.828537)"/>
+      <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 5px; stroke-linecap: round;" d="M 81.188 224.402 C 81.188 224.402 177.944 192.617 191.365 207.824"/>
+      <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 5px; stroke-linecap: round;" d="M 192.41 200.719 C 192.41 200.719 291.48 232.022 303.765 217.611" transform="matrix(-1, 0, 0, -1, 495.575012, 425.343903)"/>
+      <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 5px;" d="M 81.454 223.906 C 152.326 249.147 226.515 250.317 303.449 224.241"/>
+      <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 5px; stroke-linecap: round;" d="M 75.728 214.836 C 96.901 255.081 141.273 296.797 190.298 296.761 C 233.75 296.729 282.262 259.148 310.182 213.283"/>
+    </g>
+  </g>
+</svg>
