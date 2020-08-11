@@ -1,6 +1,6 @@
-html{
-background:#f2d5e6;
 
+.col{
+background-color: red;
 }
 
 .hero{
@@ -17,6 +17,7 @@ p{
 }
 
 .container-fluid{
+  padding-top: 5%;
   background: #f2d5e6;
 }
 
@@ -56,17 +57,25 @@ p{
 }
 
 .mouth{
-  height: 15%;
+width: 10%;
+margin: auto;
 }
 
 .share{
   text-align: center;
   overflow: hidden;
+  padding-bottom: 5%;
 
 }
 
-.footer{
+.cta-cont{
   background-color: #f2d5e6;
+  text-align: center;
+  padding-bottom: 5%;
+  padding-top: 2%;
+}
+
+.footer{
   text-align: left;
   padding: 5% 0 3% 0;
   background-color: pink;
